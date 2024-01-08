@@ -19,3 +19,12 @@ Enriched by a pluggable API Framework - A developer can develop a pluggable API 
 Standardisation of API development framework makes the development process easy, more readable, and less error prone.
 Multiple security layers.
 Nimble, Simple to use, In Memory, Real-time DBMS.
+
+Use-Cases:
+All Mobile applications that require backend database.
+Session Caching.
+Page Caching.
+Existing Database applications to improve their reporting / analytics performance.
+Best suited as backend Database for IoT.
+Live HTML templates / themes.
+Any software application that needs backend database
